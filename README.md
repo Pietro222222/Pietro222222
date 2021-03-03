@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá, sou um jovem que gosta de brincar com algumas linguagens de programação
 
-<!--
-**Pietro222222/Pietro222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+### Essas São minhas principais tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Principais Tecnologias](https://i.imgur.com/zEm8tEM.png))
+
+<br>
+<br>
+
+
+### Essas são as minhas estatiscas
+![Minhas estatiscas](https://github-readme-stats.vercel.app/api?username=Pietro222222&count_private=true&show_icons=true&theme=radical))
+
+[![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro222222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
