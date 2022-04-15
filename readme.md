@@ -19,5 +19,7 @@ you can talk to me via discord! (Pietro.rs#2817)
 
 btw did i mention i use <img src=https://i.imgur.com/1UXzydb.png></img> BTW ?
 
+# AS YOU CAN SEE I LIKE RUST
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pietro222222&hide=Shell,Makefile,Emacs%20Lisp,Lua&layout=compact&theme=onedark&hide_border=true"/>
+
