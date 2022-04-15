@@ -15,9 +15,9 @@ you can talk to me via discord! (Pietro.rs#2817)
 
 
 <img src=https://img.shields.io/badge/Rust-orange></img>
-<br>
+<br> is my favourite **pog**ramming language!
 
-i use <img src=https://i.imgur.com/1UXzydb.png></img> BTW
+btw did i mention i use <img src=https://i.imgur.com/1UXzydb.png></img> BTW ?
 
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pietro222222&hide=Shell,Makefile,Emacs%20Lisp,Lua&layout=compact&theme=onedark&hide_border=true"/>
