@@ -11,6 +11,8 @@ In my github profile you will find:
 ## Warning for depressed people
 dont go further, dont look at my repositories, the code quality there may increase your sadness!
 
+# other shit 
+
 you can talk to me via discord! (Pietro.rs#2817)
 
 
