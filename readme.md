@@ -1,6 +1,6 @@
 # Hi There!
 
-Im Pietro, a random guy on the internet seeking ~~happiness~~ knowledge!
+Im Pietro, a random guy on the internet seeking knowledge!
 
 In my github profile you will find:
 * gore code
